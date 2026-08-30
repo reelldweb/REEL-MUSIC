@@ -1,4 +1,0 @@
-# REEL·LD MUSIC - ADS.TXT
-# IMPORTANTE: sustituye pub-0000000000000000 por tu ID DE EDITOR real de Google AdSense.
-# Formato oficial:
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
