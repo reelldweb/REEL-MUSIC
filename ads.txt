@@ -1,4 +1,0 @@
-# REEL·LD MUSIC - ADS.TXT
-# Reemplaza la línea siguiente por la línea EXACTA que te entrega Google AdSense.
-# Ejemplo oficial:
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
